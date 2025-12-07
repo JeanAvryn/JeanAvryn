@@ -1,4 +1,3 @@
-## VENTI LADORRE
 🔬 Researcher | 🧪 STEM Enthusiast | 💻 Aspiring Statistician
 ---
 A 12th grade student from the Philippines passionate about merging technology, science, and community impact through innovative projects like **CUYA-BOT 2.0**, a chatbot and disaster mitigation system for my hometown, Cuyapo, Nueva Ecija.
