@@ -1,4 +1,25 @@
-👋 Hi, I'm Jean Avryn (Vin A. Tillo)<br><br>### 🔬 Researcher | 🧪 STEM Enthusiast | 💻 Full-Stack Developer<br><br>I'm a Grade 12 student from the Philippines passionate about merging technology, science, and community impact through innovative projects like **CUYA-BOT 2.0**, a chatbot and disaster mitigation system for my hometown, Cuyapo, Nueva Ecija.<br><br>---<br><br>## 🚀 Projects<br><br>### CUYA-BOT 2.0<br>An AI-powered chatbot and municipal app for disaster reporting, local info, and community engagement in Cuyapo.  <br>*Tech Stack:* Next.js 15, TypeScript, Tailwind CSS, Prisma, Zustand, Leaflet  <br>[Repository →](https://github.com/JeanAvryn/cuyabot_2.0)<br><br>### Bio-Battery Research<br>Exploring sustainable electrolytes using fermented papaya extract for bio-battery applications.  <br>*Research Paper & Data Analysis*<br><br>### Sons of Pythagoras (Novel)<br>A dark and cinematic novel blending youth activism and resistance in a fictional Philippine setting.  <br>*Writing & Creative Storytelling*<br><br>---<br><br>## 🛠️ Skills & Tools<br><br>- **Programming:** TypeScript, JavaScript, Python, SQL  <br>- **Frameworks:** Next.js, React, Flask  <br>- **Databases:** Prisma ORM, SQLite  <br>- **Design & Data:** Tailwind CSS, Leaflet.js  <br>- **Research:** Experimental design, data analysis, academic writing<br><br>---<br><br>## 🎯 Goals & Interests<br><br>- Pass UPCAT and pursue higher education in AI and Statistics  <br>- Develop AI-powered solutions for disaster mitigation  <br>- Advocate STEM education and youth empowerment<br><br>---<br><br>## 📫 Connect with me<br><br>- [GitHub](https://github.com/JeanAvryn)  <br>- [LinkedIn](https://linkedin.com/in/yourprofile) *(update with your link)*  <br>- Email: ronquillojeanavryn@gmail.com *(replace with your email)*<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanAvryn&show_icons=true&theme=radical)<br><br>---<br><br>*“Eyes on the stars, feet on the ground.”*<br>
+# 💫 About Me:
+# 👋 Hi, I'm Jean Avryn (Vin A. Tillo)<br><br>
+🔬 Researcher | 🧪 STEM Enthusiast | 💻 Full-Stack Developer<br><br>
+
+I'm a Grade 12 student from the Philippines passionate about merging technology, science, and community impact through innovative projects like **CUYA-BOT 2.0**, a chatbot and disaster mitigation system for my hometown, Cuyapo, Nueva Ecija.<br><br>
+---
+
+<br><br>
+## 🚀 Projects<br><br>
+## CUYA-BOT<br>
+An AI-powered chatbot and municipal app for disaster reporting, local info, and community engagement in Cuyapo.  <br>
+*Tech Stack:* Next.js 15, TypeScript, Tailwind CSS, Prisma, Zustand, Leaflet  <br>[Repository →](https://github.com/JeanAvryn/CUYA-BOT)<br><br>
+
+## Bio-Battery Research<br>
+Exploring sustainable electrolytes using fermented papaya extract for bio-battery applications.  <br>
+*Research Paper & Data Analysis*<br><br>
+
+## Tugis <br>
+A 
+
+## Sons of Pythagoras (Novel)<br>
+A dark and cinematic novel blending youth activism and resistance in a fictional Philippine setting.  <br>*Writing & Creative Storytelling*<br><br>---<br><br>
 
 
 ## 🌐 Socials:
