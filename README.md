@@ -1,5 +1,4 @@
 <h1>👋 Hi there, it's Avryn</h1>
-<hr>
 <h2><i>A man can be destroyed but not defeated.</i></h2>
 
 # 💫 About Me:
