@@ -1,5 +1,5 @@
-<h1><center>👋 Hi there, it's Avryn</h1></center>
-<center><p><i>Veni, vidi, vici.</i></p></center>
+<h1 align=center>👋 Hi there, it's Avryn</h1>
+<p align=center><i>Veni, vidi, vici.</i></p>
 
 # 💫 About Me:
 I'm a Grade 12 STEM student from the Philippines, who's self-studying computer programming and data analytics. I am highly interested in programming, data science, mathematics, and writing. In my leisure time, I have a lot of hobbies such as playing guitar, playing video games, solving Rubik's cubes, solving Mathematics problems, reading books, and watching battle rap videos. I aim to major computer science in college and be a data engineer.
